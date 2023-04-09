@@ -1,0 +1,48 @@
+.button
+{
+    -fx-background-color: green;
+    -fx-background-radius:20;
+}
+.button:hover
+{
+    -fx-background-color:blue;
+}
+#pane
+{
+    -fx-background-color: #6D9AC4;
+    -fx-background-radius:15;
+    -fx-opacity: 0.8;
+
+}
+
+
+.label
+{
+
+    -fx-background-radius:20;
+}
+
+
+#anchorpane{
+    -fx-background-image: url("loginbackground.jpg");
+}
+
+
+#userName
+{
+     -fx-background-radius:20;
+}
+
+
+#password
+{
+     -fx-background-radius:20;
+}
+
+#fullName{
+-fx-background-radius:20;
+}
+
+#emailAddressBar{
+-fx-background-radius:20;
+}

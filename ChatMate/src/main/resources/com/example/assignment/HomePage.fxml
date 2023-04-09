@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="745.0" prefWidth="784.0" style="-fx-background-color: #6D9AC4;" stylesheets="@style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.assignment.HomePageController">
+   <children>
+      <Label fx:id="name" layoutX="75.0" layoutY="114.0" prefHeight="501.0" prefWidth="646.0" style="-fx-background-color: #6D9AC4;" stylesheets="@style.css">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
